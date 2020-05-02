@@ -1096,6 +1096,15 @@
 	    padding: 0;
 	}
 
+	.about {
+	    text-align: justify;
+	}
+
+	.about img {
+	    float: left;
+	    padding: 15px;
+	}
+
 	.how-box h3 {
 	    margin: 10px 0;
 	    font-size: 16px;
@@ -1568,16 +1577,13 @@
 
 	.price-value {
 	    padding-top: 20px;
-	    font-size: 62px;
+	    font-size: 32px;
 	    color: #3C3B3B;
 	    text-align: center;
 	    font-weight: 600;
 	}
 
-	.price-value sub {
-	    font-size: 21px;
-	    vertical-align: 40px;
-	}
+	#pricing .image:hover {}
 
 	.price-month {
 	    padding: 0 0 30px 0;
